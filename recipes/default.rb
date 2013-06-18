@@ -1,5 +1,5 @@
 #
-# Cookbook Name:: myface
+# Cookbook Name:: danielr928-myface
 # Recipe:: default
 #
 # Copyright 2013, YOUR_COMPANY_NAME
